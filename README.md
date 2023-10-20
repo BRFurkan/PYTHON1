@@ -1,1 +1,1 @@
-# PYTHON1
+# PYTHON1 python öğrenme
